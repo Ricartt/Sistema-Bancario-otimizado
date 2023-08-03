@@ -3,7 +3,7 @@
 # Sistema Bancário Otimizado <img src='https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif' width='80' height='80' >
 
 
-##  Objetivo da otimização do Sistema Banário
+##  Objetivo da otimização do Sistema Bancário 
 Separar funções existentes de saque, depósito e extrato em funções. Criar duas novas funções: cadastrar usuário (cliente) e cadastrar conta bancária.
 
 ## Desafio
@@ -40,5 +40,5 @@ O programa armazena contas em uma lista, uma conta é composta por: agência, n�
 
 ##
 ##
-Para vincular um usuário a uma conta, filtramos a lista de usuários buscando o número do cpf informado para casa usuário da lista. 
+Para vincular um usuário a uma conta, filtramos a lista de usuários buscando o número do cpf informado para cada usuário da lista. 
 
